@@ -1,0 +1,17 @@
+{
+  "name": "spotz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "scripts": {
+    "dev": "node --watch src/index.cjs",
+    "start": "node src/index.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
